@@ -3,5 +3,54 @@
   font-family: 'Dosis', sans-serif;
   margin: 0;
   padding: 0;
-    
+  border: solid black 0.1px; 
+
+}
+
+h1 {
+  
+  color: #ccc906;
+  font-size: 55px;
+
+}
+
+
+
+div > p {
+
+  margin: 10px;
+}
+
+div > img {
+
+  margin: 30px;
+}
+
+
+
+.floating-box {
+
+  display: inline-block;
+  width: 350px;
+  height: 80;
+  margin: 10px;
+
+}
+
+.img-floating-box {
+
+  display: inline-block;
+  width: 50px;
+  height: 80px;
+
+}
+
+#no-margin {
+
+  margin: 0;
+}
+
+#top-vertical-align {
+
+  vertical-align: top;
 }
