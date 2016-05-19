@@ -1,0 +1,36 @@
+h1 {
+    font-family: helvetica, sans-serif, arial;
+    font-size: 50px;
+    color: white;
+}
+
+body {
+    background-color: gray;
+    color: black;
+    font-family: helvetica, sans-serif, arial;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+    width: 300px;
+    margin-bottom: 2px;
+}
+
+.ghost-button {
+  display: inline-block;
+  width: 100px;
+  padding: 8px;
+  color: #fff;
+  border: 2px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+.ghost-button:hover,
+.ghost-button:active {
+  background-color: #fff;
+  color: gray;
+}
