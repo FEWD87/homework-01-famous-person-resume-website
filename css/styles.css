@@ -1,0 +1,106 @@
+body {
+  color: #fff;
+  font-family: 'Dosis', sans-serif;
+  margin: 0;
+  padding: 0;
+ /* border: solid black 0.1px; */
+  text-align: left;
+  background-color: #000;
+}
+
+a {
+  color: #fff;
+}
+
+p {
+  letter-spacing: 2px;
+  line-height: 20px;
+}
+
+h1 {
+  margin: 10px;
+  color: #ccc906;
+  font-size: 55px;
+}
+
+h2 {
+  font-weight: 300;
+  margin: 10px;
+  color: #ccc906;
+  font-size: 35px;
+}
+
+body {
+  margin: 0;
+}
+
+ul {
+  letter-spacing: 2px;
+  line-height: 60px;
+}
+
+.add-top-margin {
+  margin: 70px 0 0 0;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.light {
+  font-weight: 300;
+}
+
+.div1 {
+  margin: 20px;
+  float: left;
+  padding: 0;
+  width: 30%;
+}
+
+.div2 {
+  margin: 50px 0 0 0;
+  width: 30%;
+  float: left;
+  /*border: 10px solid black;*/
+}
+
+.div3 {
+  border: 2px solid #34B538;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 52px 0 0 0;
+  width: 20%;
+  float: left;
+  /*border: 10px solid black;*/
+}
+
+.div4 {
+  margin: 0px;
+  float: left;
+  width: 100%;
+ /* border: 10px solid black;*/
+}
+
+.div5 {
+  margin: 20px;
+  float: left;
+  width: 80%;
+  /*border: 10px solid black;*/
+}
+
+.div6 {
+  margin: 20px;
+  float: left;
+  width: 80%;
+ /* border: 10px solid black;*/
+}
+
+
+.clear {
+  clear: left;
+}
+
+.float-right {
+  float: right;
+}
