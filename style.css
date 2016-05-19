@@ -1,0 +1,36 @@
+* {
+	font-family: Verdana, sans-serif;
+	padding-left: 10px;
+}
+
+nav{
+	text-align: center;
+}
+
+h1{
+	text-align:center;
+}
+
+h2 {
+	display:inline;
+	width:100%;
+	text-align: center;
+	border: solid;
+	margin:20px;
+	background:teal;
+}
+
+footer {
+	text-align: center;
+}
+
+.social{
+	width:100px;
+	height:100px;
+  	bottom: 0;
+  	margin:10px;
+}
+
+/*.center {
+	display:inline;
+}*/
