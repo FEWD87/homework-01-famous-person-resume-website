@@ -42,4 +42,23 @@ a:hover {
 
 .list ul {
     list-style: none;
+    padding: 2px;
+}
+
+.listtitle {
+	font-size: 3em;
+	text-decoration: underline;
+	padding: 2px;
+}
+
+.alive {
+	font-size: 2em;
+	padding: 5px;
+}
+
+.dead {
+	font-size: 2em;
+	text-decoration: line-through;
+	color: #CCC;
+	padding: 5px;
 }
