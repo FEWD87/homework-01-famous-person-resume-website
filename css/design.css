@@ -1,0 +1,130 @@
+
+body  {
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 30px;
+  border-bottom: 5px groove #CDDC39;
+  border-top: 5px groove #CDDC39;
+  padding: 9px;
+  background: rgba(142, 220, 57, 0.35);
+  overflow: auto;
+  /*???? How do I change overflow in the bottom? Thanks???
+  ????Also how do I do tab backwards???
+  Thanks*/
+}
+
+h1 {
+  color: #3C3D8E;
+  font-family: comic;
+  text-align: center;
+  margin-right: 450px;
+  margin-top: 27px;
+}
+
+h2 {
+  letter-spacing: 2px;
+}
+
+nav {
+  color: #222222;
+}
+
+ul {
+  text-transform: uppercase;
+  font-weight: lighter;
+  list-style: square;
+  color: rgba(68, 38, 28, 0.76);
+}
+
+img {
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 2px dotted #222222;
+  padding: 5px;
+  text-align: center;
+  height: 250px;
+  width: 250px;
+  margin-top: 72px;
+  margin-bottom: 72px;
+}
+
+img.people  {
+  margin-left: 57px;
+  margin-right: 20px;
+  border: 2px dashed #222222;
+  padding: 5px;
+  text-align: center;
+  height: 250px;
+  width: 340px;
+  transform: rotate(1.1turn);
+}
+
+
+img.turn  {
+  transform: rotate(0.2turn);
+  height: 250px;
+  width: 300px;
+
+}
+
+img.dad {
+  transform: rotate(0.25turn);
+  width: 300px;
+}
+
+/*next page*/
+
+h3 {
+  font-size: 30px;
+}
+
+code {
+  font-size: 13px;
+  color: purple;
+}
+
+#bourbon {
+  text-decoration-style: dotted;
+  color: #9876A9;
+  background: white;
+  border: 1px solid green;
+  padding: 10px;
+  margin-left: 280px;
+}
+
+blockquote {
+  float:right;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  font-size: 130%;
+  font-style: italic;
+  margin: 0px 0px 10px 10px;
+  padding: 10px;
+  width: 190px;
+}
+
+dd {
+  float: left;
+  width: 200px;
+  height: 80px;
+  margin: 10px;
+  padding: 5px;
+  background-color: #eee;
+  overflow: auto;
+  /*It doesn't seem to overflow for me ... =(*/
+}
+
+.clear {
+  clear: left;
+  }
+
+img.align {
+  float: left;
+  border: 2px dotted #222222;
+  padding: 5px;
+  height: 250px;
+  width: 250px;
+  margin: 10px;
+}
+/*I also tried to add an image with different alignment just to test it our
