@@ -1,0 +1,124 @@
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  border-bottom: 5px solid #222222;
+  border-top: 5px solid #222222;
+  padding: 50px;
+  background-color: #f5f5dc;
+  color: #5a605a
+}
+
+img.signature {
+  width: 300px;
+  margin-left: 400px;
+  border: none;
+}
+
+img.profile {
+  float: left;
+  height: 300px;
+  margin: 65px;
+  border: 1px solid #222222;
+  padding: 5px;
+  margin-top: 20px;
+}
+
+footer {
+  margin-top: 100px;
+  padding: 10px;
+  border: 10px dotted white;
+}
+
+a {
+  font-weight: bold;
+  color: #05080C;
+}
+
+a:hover {
+  color: #dcdcf5;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  color: #030609;
+  margin-top: 0px;
+}
+
+h2 {
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-top: 15px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 18px;
+  color: #030609;
+  text-transform: uppercase;
+  margin-top: 15px;
+  letter-spacing: 2px;
+}
+
+nav {
+  color: #222222;
+  text-align: center;
+  margin: 15px;
+}
+
+p {
+  font-family: Tahoma, serif;
+  margin: 135px;
+}
+
+
+h4 {
+  font-size: 16px;
+  color: #CCCCCC;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+h3.work {
+  float: left;
+  border: 2px dotted #eee;
+  overflow: auto;
+}
+
+h3.social {
+  float: left;
+  border: 2px dotted #eee;
+  background-color: #ccc;
+  overflow: auto;
+}
+
+span {
+  color: #717870;
+  font-weight: 300;
+}
+
+img {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #222222;
+  padding: 5px;
+  text-align: center;
+}
+
+p.film {
+  margin: 15px;
+}
+
+img.poster {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #222222;
+  padding: 5px;
+  text-align: center;
+  height: 500px;
+}
+
+
