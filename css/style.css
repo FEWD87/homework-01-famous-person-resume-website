@@ -1,0 +1,17 @@
+body {
+	background-image: url("../images/mcqueen_white.jpg");
+}
+
+
+img.displayed {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+h1, h2, h3 {
+	font-family: ariel;
+	
+}
