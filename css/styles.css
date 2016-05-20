@@ -15,7 +15,6 @@ img.profile {
 }
 
 img.experience {
-  float: right;
   height: 100px;
   width: 100px;
   border: 2px solid #668B8B;
@@ -28,6 +27,10 @@ header {
   text-align: center;
   margin: 0px 0px 0px 0px;
   padding: 20px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
 }
 
 h1 {
@@ -35,6 +38,7 @@ h1 {
   color: #5E5E5E;
   font-size: 40px;
   margin-bottom: 3px;
+  margin-top: 75px;
 }
 
 h2 {
@@ -58,12 +62,6 @@ h5 {
   margin: 0px 0px 0px 0px;
 }
 
-h4 {
-  float: right;
-  clear: both;
-  margin-right: 20px;
-}
-
 p {
   margin: 10px 0px 0px 20px;
 }
@@ -72,9 +70,12 @@ footer {
   clear: both;
   background-color: #B4CDCD;
   text-align: center;
-  margin: 0px 0px 0px 0px;
   padding: 20px;
   margin-top: 70px;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  left: 0px;
 }
 
 a {
@@ -89,12 +90,24 @@ a:hover {
   color: #668B8B;
 }
 
-footer p {
-  margin: 0px 0px 7px 0px;
+.left {
+  float: right;
+  width: 75%;
+  height: 200px;
+}
+
+.right {
+  float: right;
+  width: 20%;
+  height: 200px;
 }
 
 header a {
 padding: 5px;
+}
+
+#bottom {
+  margin-bottom: 50px;
 }
 
 footer a {
