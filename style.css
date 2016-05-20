@@ -1,0 +1,97 @@
+* {
+  font-family: "open sans";
+  padding-left: 10px;
+}
+
+h1 {
+  font-weight: lighter;
+  font-size: 62px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: 'Montserrat', sans-serif;
+  text-shadow: 2px;
+}
+
+body {
+  background-image: url("images/leonard_back.jpg");
+/*  background-repeat: no-repeat;*/
+/*  background-position: right top;*/
+    background-position: -600% 120%; 
+}
+
+nav, strong {
+  font-size: 24px;
+  font-weight: lighter;
+  color: gray;
+}
+
+a.navlink {
+  font-size: 24px;
+  font-weight: lighter;
+  color: #FF9800;
+}
+
+a {
+  color: black;
+}
+
+
+.top {
+  background-color: rgba(0, 0, 0, 0.60);
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: white;
+  margin-bottom: 0px;
+}
+
+.main {
+  width: 1000px;
+  height: 415px;
+  padding-top: 1px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  background-color: white;
+  box-shadow: 7px 7px 25px #888888;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+.border {
+  padding-top: 20px;
+  padding-bottom: 75px;
+  background-color: rgba(72, 72, 72, 0.23);
+}
+
+img.face {
+  float: right;
+  height: 500px;
+}
+
+ul {
+  margin-left: 20px;
+  line-height: 175%;
+  font-size: 18px;
+}
+
+img.logo {
+  height: 125px;
+  width: 125px;
+  float: left;
+}
+
+p.logo {
+  float: left;
+  width: 750px;
+  margin-left: 20px;
+  padding-top: 15px;
+}
+
+div.logo {
+  overflow: auto;
+}
+
+h2 {
+  margin-top: 30px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
