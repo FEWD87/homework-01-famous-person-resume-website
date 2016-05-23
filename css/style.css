@@ -1,0 +1,77 @@
+body{
+  background-color: #f3f4f5;
+  padding: 15px;
+  font-family: Helvetica;
+  font-size: 14px;
+  background-image: url(http://www.gannett-cdn.com/-mm-/d8b68461f8c54f619579b4b1091145ba082f9ab2/c=0-1287-4000-3547&r=x1683&c=3200x1680/local/-/media/2016/05/08/USATODAY/USATODAY/635983284547965765-Radio-AMoon-Cover-240416.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: fixed;
+  opacity: 0.9;
+  width: auto;
+  height: auto;
+}
+nav{
+  font-size: 20px;
+  text-align: center;
+  color: #808080;
+  padding: 5px;
+  margin: 5px;
+  font-family: sans-serif;
+}
+h1{
+  background-color: white;
+  text-align: center;
+  font-family: sans-serif;
+  padding: 20px;
+  margin: 20px;
+  letter-spacing: 3px;
+}
+img{
+  width: 600px;
+  height: auto;
+  float: right;
+  vertical-align: top;
+
+}
+div{
+  align: right;
+  padding: auto;
+  margin: auto;
+  float: right;
+
+}
+p{
+  text-align: left;
+  text-shadow: all;
+  text-overflow: unset;
+  color: black;
+  text-shadow:
+      1px 1px 0 #999999,
+      1px 1px 0 #999999,  
+      1px 1px 0 #999999,
+      1px 1px 0 #999999,
+      1px 1px 0 #999999;
+  margin: 10px;
+  padding: 5px;
+  font-size: 18px;
+  background-color: #f3f4f5;
+}
+.nav{
+  font-family: times;
+  background-color: white;
+  color: #70db70;
+  letter-spacing: 1px;
+}
+a{
+  color: #00aaff;
+}
+.resize{
+  margin: 10px;
+  border: 5px black solid;
+  float: none;
+  width: 500px;
+  height: auto;
+  opacity:1.0;
+  filter: opacity(100%);
+}
