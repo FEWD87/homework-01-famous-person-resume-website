@@ -5,7 +5,6 @@ body{
   font-size: 14px;
   background-image: url(http://www.gannett-cdn.com/-mm-/d8b68461f8c54f619579b4b1091145ba082f9ab2/c=0-1287-4000-3547&r=x1683&c=3200x1680/local/-/media/2016/05/08/USATODAY/USATODAY/635983284547965765-Radio-AMoon-Cover-240416.jpg);
   background-repeat: no-repeat;
-  background-position: absolute;
   background-size: auto;
   background-attachment: fixed;
   opacity: 0.9;
@@ -29,7 +28,7 @@ h1{
   letter-spacing: 3px;
 }
 img{
-  width: 600;
+  width: 600px;
   height: auto;
   float: right;
   vertical-align: top;
@@ -37,7 +36,6 @@ img{
 }
 div{
   align: right;
-  justify-content: center;
   padding: auto;
   margin: auto;
   float: right;
@@ -75,5 +73,5 @@ a{
   width: 500px;
   height: auto;
   opacity:1.0;
-  filter:alpha(opacity=100); 
+  filter: opacity(100%);
 }
