@@ -1,8 +1,13 @@
 body {
+	font-family: ariel, helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+	margin: 30px;
+	border-bottom: 5px solid #222222;
+	border-top: 5px solid #222222;
+	padding: 50px;
 	background-image: url("../images/mcqueen_white.jpg");
 }
-
-
 img.displayed {
 
 	display: block;
@@ -10,8 +15,23 @@ img.displayed {
 	margin-right: auto;
 }
 
+h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	color: #030609;
+	margin-top: 0px;
+}
+h3 {
+	font-size: 16px;
+	color: #030609;
+	text-transform: uppercase;
+	margin-top: 42px;
+	letter-spacing: 2px;
+}
 
-h1, h2, h3 {
-	font-family: ariel;
-	
+nav {
+	color: #222222;
+	text-align: center;
+	margin-bottom: 42px;
 }
