@@ -16,7 +16,7 @@ h2 {
 	display:inline;
 	width:100%;
 	text-align: center;
-	border: solid 1px;
+	border: solid;
 	margin:20px;
 	background:teal;
 }
@@ -32,8 +32,8 @@ footer {
 .social{
 	width:100px;
 	height:100px;
-	bottom: 0;
-	margin:10px;
+  	bottom: 0;
+  	margin:10px;
 }
 
 .centertext {
