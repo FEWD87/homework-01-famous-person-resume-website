@@ -127,4 +127,10 @@ img.align {
   width: 250px;
   margin: 10px;
 }
+
+footer {
+  clear: left;
+}
+
+
 /*I also tried to add an image with different alignment just to test it our
