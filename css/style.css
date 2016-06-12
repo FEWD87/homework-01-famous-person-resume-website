@@ -1,0 +1,41 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  line-height: 1.5;
+  margin: 35px 55px 35px 55px;
+  padding: 15px 20px 20px 20px;
+  background: #CBEDF7;
+}
+
+h1 {
+  font-size: 34px;
+}
+
+nav {
+  font-size: 24px;
+  text-align: center;
+  line-height: 2.0;
+  font-weight: bold;
+}
+
+a {
+  color: #05080C;
+}
+
+img.erlich {
+  float: right;
+  max-width: 25%;
+  max-height: 25%;
+  padding: 0px 0px 5px 30px;
+}
+
+.interest {
+  margin-right: 20px;
+}
+
+.aviato {
+  display: block;
+  max-height: 18%;
+  max-width: 18%;
+  margin-left: auto;
+  margin-right: auto;
+}
